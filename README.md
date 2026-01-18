@@ -9,3 +9,15 @@ This project focuses on applying AI to smart agriculture for automatic tomato de
 - Develop a robust tomato detection and grading algorithm
 - Optimize deep learning models for resource-constrained edge devices
 - Deploy and validate the system in real-world conditions
+
+## State-of-the-Art Review
+A comprehensive literature review was conducted on:
+- AI-based crop detection and monitoring
+- Automated harvesting systems
+- Embedded AI and edge computing in agriculture
+- Real-time vision systems for precision farming
+
+## Dataset
+- More than 7,200 tomato images was collected in Kenya farm using mobile phone camera acquired under real agricultural conditions with coplicated bacground.
+- All images were preprocessed and manually annotated using Label Studio software
+- Four maturity or categories were decided: Unripe, Semi-ripe, Ripe, and Damaged. 
