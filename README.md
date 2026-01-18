@@ -1,0 +1,2 @@
+# Edge-AI-for-Smart-Agriculture-Tomato-Detection-and-Grading-with-YOLOv10-CBAM
+This project focuses on applying AI to smart agriculture for automatic tomato detection and maturity classification. It combines computer vision, DL, and edge AI deployment to enable real-time perception for agricultural robotics and automated harvesting systems. The work resulted in a Scopus-indexed publication and an 80-page master’s thesis.
